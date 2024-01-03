@@ -1,4 +1,5 @@
-! Adguard Blocklist
+! Title: Adguard Blocklist
+! Version: 2024.01.04
 !
 ||326.bidder.gamx.io^
 ||360.cn^
