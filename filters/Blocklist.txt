@@ -1,6 +1,6 @@
 ! Title: Adguard Blocklist
 ! Version: 2024.01.04
-!
+! Homepage: https://github.com/ilvon/DNS_Filters
 ||326.bidder.gamx.io^
 ||360.cn^
 ||360.safe.com^
