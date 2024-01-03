@@ -1,2 +1,2 @@
 # DNS_Filters
-My personal DNS filter list/rules
+My personal Adguard DNS filter list/rules

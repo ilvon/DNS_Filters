@@ -1,0 +1,20 @@
+! Adguard Allowlist
+!
+@@||adguard-dns.com^
+@@||adguard-dns.io^
+@@||adguard.com^
+@@||beap1.cb.g01.yahoodns.net^
+@@||controld.com^
+! @@||google-analytics.com^
+! @@||google-analytics.l.google.com^
+@@||googleusercontent.com^
+@@||graph.facebook.com^
+@@||icloud-content.com^
+@@||ir0.mobify.com^
+@@||js.kiwihk.net^
+@@||nextdns.io^
+@@||raw.githubusercontent.com^
+@@||rsshub.app^
+@@||rum.browser-intake-datadoghq.eu^
+@@||s.youtube.com^important
+@@||torimochi.line-apps.com^
