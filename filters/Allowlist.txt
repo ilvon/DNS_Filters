@@ -1,5 +1,5 @@
-! Title: Adguard Blocklist
-! Version: 2024.01.04
+! Title: AdGuard Allowlist
+! Version: 2024.0105.2055
 ! Homepage: https://github.com/ilvon/DNS_Filters
 @@||adguard-dns.com^
 @@||adguard-dns.io^
