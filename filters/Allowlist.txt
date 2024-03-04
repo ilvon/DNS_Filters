@@ -1,5 +1,5 @@
 ! Title: AdGuard Allowlist
-! Version: 2024.0107.1928
+! Version: 2024.0304.1930
 ! Homepage: https://github.com/ilvon/DNS_Filters
 ! @@||google-analytics.com^
 ! @@||google-analytics.l.google.com^
@@ -7,6 +7,7 @@
 @@||adguard-dns.io^
 @@||adguard.com^
 @@||beap1.cb.g01.yahoodns.net^
+@@||click.simba.taobao.com^
 @@||controld.com^
 @@||edgeware.tvb.com^
 @@||googleusercontent.com^
@@ -24,3 +25,4 @@
 @@||rum.browser-intake-datadoghq.eu^
 @@||s.youtube.com^important
 @@||torimochi.line-apps.com^
+@@||tt.omtrdc.net^
