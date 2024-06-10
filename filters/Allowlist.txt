@@ -1,5 +1,5 @@
 ! Title: AdGuard Allowlist
-! Version: 2024.0304.1930
+! Version: 2024.0610.1535
 ! Homepage: https://github.com/ilvon/DNS_Filters
 ! @@||google-analytics.com^
 ! @@||google-analytics.l.google.com^
@@ -15,6 +15,7 @@
 @@||ir0.mobify.com^
 @@||js.kiwihk.net^
 @@||nextdns.io^
+@@||push.apple.com^
 @@||raw.githubusercontent.com^important
 @@||rsshub.app^
 @@||rum.browser-intake-datadoghq.eu^
