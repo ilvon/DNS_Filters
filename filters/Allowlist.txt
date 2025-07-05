@@ -1,11 +1,12 @@
 ! Title: AdGuard Allowlist
-! Version: 2024.0610.1535
+! Version: 2025.0705.2215
 ! Homepage: https://github.com/ilvon/DNS_Filters
 ! @@||google-analytics.com^
 ! @@||google-analytics.l.google.com^
 @@||adguard-dns.com^
 @@||adguard-dns.io^
 @@||adguard.com^
+@@||api.icedrive.net
 @@||beap1.cb.g01.yahoodns.net^
 @@||click.simba.taobao.com^
 @@||controld.com^
